@@ -175,32 +175,6 @@ On this Day
 --- Abdullah Nadeem is Celebrating Success
      “Got D in toughest subject… Thanks God I am Pass finally…” … (15/11/2015)
                                         Ahsan Ali wrote: “Celebrations???”
----------------------------------------------------------------------------------------------------------------
-Command:                  ShareMemory(post10, “Never thought I will be specialist in this field…”)
-Command:                  View TimeLine
-
-
-Abdullah Nadeem –Time Line
-
-~~~ Abdullah Nadeem shared a memory ~~~ …(15/11/2017)
-“Never thought I will be specialist in this field…”
-                               (2 Years Ago)
---- Abdullah Nadeem is Celebrating Success
-     “Got D in toughest subject… Thanks God I am Pass finally…” … (15/11/2015)
-
-
---- Abdullah Nadeem is Celebrating a birthday
-     “Happy Birthday to my dear Mom” … (14/11/2017)
-                                        Waheed Khan wrote: “Happy Birthday Aunty”
-
---- Abdullah Nadeem is Celebrating a birthday
-     “Happy Birthday to my dear Father” … (14/10/2017)
-                                        Ahsan Ali wrote: “Happy Birthday Uncle”
-
---- Abdullah Nadeem is Celebrating Success
-     “Got D in toughest subject… Thanks God I am Pass finally…” … (15/11/2015)
-                                        Ahsan Ali wrote: “Celebrations???”
-
 
 ---------------------------------------------------------------------------------------------------------------
 Command:                   ViewPage(p1)
